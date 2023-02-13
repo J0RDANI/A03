@@ -4,11 +4,15 @@ UCID: jj522
 **Webstorm Guide**
 https://www.jetbrains.com/webstorm/guide/
 
-**Installation Link**
+**Installation Links**
 https://www.jetbrains.com/webstorm/download/
+https://git-scm.com/downloads
 
 1. Run the WebStorm-2022.3.2.exe file that starts the Installation Wizard
 2. Follow all steps suggested by the wizard. Please pay special attention to the corresponding installation options.
+3. Install Git and follow the steps suggested by the wizard.
+4. Follow this guide to connect Git to GitHub. https://docs.github.com/en/get-started/quickstart/set-up-git
+
 
 **Git Glossary**
 - **Branch**: represents an independent line of development.
